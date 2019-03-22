@@ -10,6 +10,7 @@ A collection of resources
 
 ### Reading
 
+- [ ] [Ali Spittel CSS From Zero to Hero](https://dev.to/aspittel/css-from-zero-to-hero-3o16)
 - [ ] [CSS Tricks](https://css-tricks.com/) Great docs for CSS
 - [ ] [HMTL and CSS is hard](https://internetingishard.com/html-and-css/)
 - [ ] [Rachel Andrew](https://rachelandrew.co.uk/css/)
@@ -43,6 +44,10 @@ A collection of resources
 - [ ] [Go Practice with Exercism](https://exercism.io/my/tracks/go)
 - [ ] [Games with Go](https://gameswithgo.org/) Making games with Go
 
+### Resources
+
+- [ ] [Golang String Cheat Sheet](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
+
 
       https://www.thepolyglotdeveloper.com/2018/10/build-alexa-skill-golang-aws-lambda/
       https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back
@@ -57,3 +62,16 @@ https://www.nand2tetris.org/
 https://projecteuler.net/
 
 http://Bit.ly/dons-tech-books
+
+## React
+
+### Reading
+
+- [ ] [Ali Spittel Complete Beginner's Guide to React](https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6)
+
+## Vue
+
+### Reading
+
+- [ ] [Ali Spittel Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
+- [ ]
