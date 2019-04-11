@@ -76,6 +76,9 @@ http://Bit.ly/dons-tech-books
 - [ ] [Ali Spittel Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
 - [ ]
 
+### VSCode
+
+- [ ] [VSCodeCanDoThat](https://vscodecandothat.com/)
 
 ### jQuery 
 
