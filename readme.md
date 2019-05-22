@@ -2,6 +2,10 @@
 
 A collection of resources
 
+## Front End - General
+
+- [ ][Front End Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 ## CSS
 
 ### Courses
@@ -74,7 +78,6 @@ http://Bit.ly/dons-tech-books
 ### Reading
 
 - [ ] [Ali Spittel Complete Beginner's Guide to Vue](https://dev.to/aspittel/a-complete-beginners-guide-to-vue-422n)
-- [ ]
 
 ### VSCode
 
