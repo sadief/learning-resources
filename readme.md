@@ -4,7 +4,7 @@ A collection of resources
 
 ## Front End - General
 
-- [ ][Front End Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [ ] [Front End Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ## CSS
 
