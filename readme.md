@@ -83,8 +83,16 @@ http://Bit.ly/dons-tech-books
 
 - [ ] [VSCodeCanDoThat](https://vscodecandothat.com/)
 
-### jQuery 
+## jQuery 
 
 ### Reading
 
 - [ ] [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+
+
+## GraphQL
+
+### Reading
+
+### Video
+- [GraphQL Intro Talk](https://www.youtube.com/watch?v=9LMU38wZzLg)
