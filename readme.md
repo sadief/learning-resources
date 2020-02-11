@@ -59,6 +59,16 @@ A collection of resources
       https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9
       https://gowebexamples.com/
       https://medium.com/@erika_dike/installing-the-protobuf-compiler-on-a-mac-a0d397af46b8
+      
+
+    
+    - [ ] [GraphQL An Introduction](https://www.youtube.com/watch?v=9LMU38wZzLg)
+    - [ ] [Agile Manifesto](https://agilemanifesto.org/)
+    - [ ] [Agile Principles]https://agilemanifesto.org/principles.html
+    - [ ] [Code Review Developer Guideline](https://google.github.io/eng-practices/review/)
+    - [ ] [Spotify Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/
+)
+
 
 ## Computer Science
 
